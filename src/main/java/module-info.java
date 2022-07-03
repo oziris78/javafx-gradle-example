@@ -5,6 +5,6 @@ module plswork.main {
     requires javafx.swing;
 
 
-    exports com.telek;
-    exports com.telek.testpackage;
+    exports com.twistral;
+    exports com.twistral.testpackage;
 }

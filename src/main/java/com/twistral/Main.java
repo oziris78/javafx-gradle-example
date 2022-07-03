@@ -1,6 +1,6 @@
-package com.telek;
+package com.twistral;
 
-import com.telek.testpackage.MyApp;
+import com.twistral.testpackage.MyApp;
 import javafx.application.Application;
 
 public class Main {

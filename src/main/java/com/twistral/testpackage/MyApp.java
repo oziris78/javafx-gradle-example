@@ -1,6 +1,6 @@
-package com.telek.testpackage;
+package com.twistral.testpackage;
 
-import com.telek.Main;
+import com.twistral.Main;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;

@@ -71,11 +71,11 @@
   </component>
   <component name="RunManager" selected="Gradle.plswork [build]">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.telek.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.twistral.Main" />
       <module name="plswork.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telek.testpackage.*" />
+          <option name="PATTERN" value="com.twistral.testpackage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
